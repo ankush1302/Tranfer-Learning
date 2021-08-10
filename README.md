@@ -11,6 +11,6 @@
 Pretrained Model helps to minimize the preprocessing data steps like: data cleaning , tokenisation , removing stop words etc.
 
 1. nnlm-en-dim128 : Maps from text to 128-dimensional embedding vectors.
-2. universal-sentence-encoder : he output is a 512 dimensional vector. 
+2. universal-sentence-encoder : the output is a 512 dimensional vector. 
 
 
